@@ -1,0 +1,127 @@
+{
+"reference":48295507,
+"name":"Botas Walks - Militar",
+"price":100000,"sole":"PVC",
+"material":"Tela",
+"imageURL":"https://i.ibb.co/1Tmfz40/CC1.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+{
+"reference":48356720,
+"name":"Botas River - Negro",
+"price":80000,
+"sole":"PVC",
+"material":"Tela",
+"imageURL":"https://i.ibb.co/3mWV0Q7/CC2.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+{
+"reference":48297560,
+"name":"Botas Walks - Café",
+"price":105000,
+"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/WFWcfpf/CC3.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+
+{
+"reference":48608801,
+"name":"Botas Masoni - Azul",
+"price":97000,
+"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/58kbv61/CC4.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+{
+"reference":48349502,
+"name":"Botas River - Beige",
+"price":80000,
+"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/3cXR8Py/CC5.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+{
+"reference":48348537,
+"name":"Botas River - Café",
+"price":80000,
+"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/pdy2bS8/CC6.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+{
+"reference":45376471,
+"name":"Botas Masoni - Negro",
+"price":97000,
+"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/r2qCyJG/CC7.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+
+{
+"reference":48374619,
+"name":"Botas River- Miel",
+"price":80000,
+"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/JpbfFr2/CC8.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+
+{
+"reference":48349027,
+"name":"Botas River - Militar",
+"price":80000,
+"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/42y8fjN/CC9.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+
+{
+"reference":454902793,
+"name":"Botas Masoni - Militar",
+"price":97000,
+"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/VHSbQsN/CC10.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+
+{
+"reference":,
+"name":"Botas River- Crema",
+"price":80000,
+"sole":"PVC",
+"material":"Tela,
+"imageURL":"https://i.ibb.co/2Wmvn2j/CC11.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+
+{
+"reference":48990348
+,
+"name":"Botas River- Gris",
+"price":80000,
+"sole":"PVC",
+"material":"Tela",
+"imageURL":"https://i.ibb.co/ScPwLTf/CC12.png",
+"size":"36-42",
+"category" :"Caballero"
+}
+

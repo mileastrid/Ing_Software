@@ -1,0 +1,104 @@
+{						
+"reference":60192295,
+"name":"Botas Frattini - Negro",
+"price":90000,"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/x5tcLDP/CD1.png",
+"size":"36-42",
+"category" :"Dama"
+}
+{
+"reference":60192643,
+"name":"Botas Frattini - Cafè",
+"price":105000,"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/sVgxhnp/CD2.png",
+"size":"36-42",
+"category" :"Dama"
+}
+{
+"reference":60194723,
+"name":"Botas Frattini - Miel",
+"price":100000,"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/2ZFxrzB/CD3.png",
+"size":"36-42",
+"category" :"Dama"
+}
+{
+"reference":60123094,
+"name":"Botas Raflex - Negro",
+"price":110000,"sole":"Goma",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/vcR810h/CD4.png",
+"size":"36-42","category" :"Dama"
+}
+{
+"reference":605693305,
+"name":"Botas Frattini - Azul",
+"price":80000,"sole":"PVC",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/PjsWhCp/CD5.png",
+"size":"36-42","category" :"Dama"
+}
+{
+"reference":60235677,
+"name":"Botas Frattini - Marrón",
+"price":120000,"sole":"Goma",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/wW4dnPD/CD6.png",
+"size":"36-42","category" :"Dama"
+}
+{
+"reference":60672307,
+"name":"Botas Bela- Gris",
+"price":100000,"sole":"Goma",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/bQD77YC/CD7.png",
+"size":"36-42","category" :"Dama"
+}
+{
+"reference":60693305,
+"name":"Botines Sport - Rosa",
+"price":78000,"sole":"PVC",
+"material":"Tela",
+"imageURL":"https://i.ibb.co/hLtTHVf/CD8.png",
+"size":"36-42","category" :"Dama"
+}
+{
+"reference":60675352,
+"name":"Botas Bela- Miel",
+"price":100000,"sole":"Goma",
+"material":"Cuerina",
+"imageURL":"https://i.ibb.co/56J7cvP/CD9.png",
+"size":"36-42","category" :"Dama"
+}
+
+{
+"reference":60881294,
+"name":"Botas Romani - Negro
+",
+"price":150000,"sole":"Goma",
+"material":"Cuerina",
+"imageURL":"
+https://i.ibb.co/Mg29y8v/CD10.png",
+"size":"36-42","category" :"Dama"
+}
+{
+"reference":60697351,
+"name":"Botines Sport - Café
+",
+"price":78000,"sole":"PVC",
+"material":"Tela",
+"imageURL":"https://i.ibb.co/HpxDCHw/CD11.png,
+"size":"36-42","category" :"Dama"
+}
+{
+"reference":60697569,
+"name":"Botines Sport - Negro",
+"price":78000,"sole":"PVC",
+"material":"Tela",
+"imageURL":"https://i.ibb.co/6W57Jyt/CD12.png",
+"size":"36-42","category" :"Dama"
+}
+

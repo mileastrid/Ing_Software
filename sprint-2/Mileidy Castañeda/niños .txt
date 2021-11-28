@@ -1,0 +1,132 @@
+   {
+     
+        "reference": 24568501,
+        "name": "Botas Kabis - Miel",
+        "price": 60000,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/zVPXzTF/CN1.png",
+        "size": "22-30",
+        "category": "Niños"
+}   
+  {
+     
+        "reference":24859401 ,
+        "name": "Botas Kabis - Marino",
+        "price": 60000,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/vmhSqcQ/CN2.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+ {
+     
+        "reference": 24984015,
+        "name": "Botas Bumbi - Café",
+        "price": 680000,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/rccBZ9L/CN3.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+{
+     
+        "reference":24409158 ,
+        "name": "Botas Gumbe - Café",
+        "price": 55000,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/cJCCxGZ/CN4.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+{
+     
+        "reference":249873324,
+        "name": "Botas Bumbi - Azul",
+        "price": 68000,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/g6kFvCn/CN5.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+{
+     
+        "reference":24985506 ,
+        "name": "Botas Baby - Café",
+        "price":50000 ,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/kqxpTw3/CN6.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+{
+     
+        "reference":24558642 ,
+        "name": "Botas Shark - Negro",
+        "price": 73000,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageurl": "https://i.ibb.co/Hnr9Dfg/CN7.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+{
+     
+        "reference":24956280,
+        "name": "Botas Bumbi - Negro",
+        "price": 68000,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/ZN1WTDp/CN8.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+   {
+     
+        "reference":249820145,
+        "name": "Botas Baby - Beige",
+        "price":50000 ,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/9c7jZpg/CN9.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+{
+     
+        "reference": 24598340,
+        "name": "Botas Kabis - Café",
+        "price":60000 ,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/n6J31LW/CN10.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+{
+     
+        "reference":24985636 ,
+        "name": "Botas Baby - Azul",
+        "price": 50000,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/wJL4NZD/CN11.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
+{
+     
+        "reference":24952268 ,
+        "name": "Botas Bumbi - Marrón",
+        "price":68000 ,
+        "sole": "polietireno",
+        "material": "plastico",
+        "imageURL": "https://i.ibb.co/F4FFqWZ/CN12.png",
+        "size": "22-30",
+        "category": "Niños"
+} 
